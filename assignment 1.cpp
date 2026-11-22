@@ -1,8 +1,3 @@
-//Name:Prachi Solanki
-//Roll no:35
-//SY8
-//ASSIGNMENT NO:1
-
 
 #include <iostream>
 #include <string>
